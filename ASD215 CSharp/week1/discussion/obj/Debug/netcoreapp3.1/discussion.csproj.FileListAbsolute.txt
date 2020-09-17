@@ -1,0 +1,11 @@
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/obj/Debug/netcoreapp3.1/discussion.csprojAssemblyReference.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/obj/Debug/netcoreapp3.1/discussion.AssemblyInfoInputs.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/obj/Debug/netcoreapp3.1/discussion.AssemblyInfo.cs
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/bin/Debug/netcoreapp3.1/discussion
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/bin/Debug/netcoreapp3.1/discussion.deps.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/bin/Debug/netcoreapp3.1/discussion.runtimeconfig.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/bin/Debug/netcoreapp3.1/discussion.runtimeconfig.dev.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/bin/Debug/netcoreapp3.1/discussion.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/bin/Debug/netcoreapp3.1/discussion.pdb
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/obj/Debug/netcoreapp3.1/discussion.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/discussion/obj/Debug/netcoreapp3.1/discussion.pdb

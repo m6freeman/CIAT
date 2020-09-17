@@ -1,0 +1,1 @@
+This is sample text. This will be copied over to 2.txt.

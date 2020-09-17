@@ -1,0 +1,26 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Computer Club T-Shirt Order Form</h1>
+    <form method="post">
+        <label asp-for="FirstName"></label>
+        <input type="text" asp-for="FirstName"><br>
+        <label asp-for="LastName"></label>
+        <input type="text" asp-for="LastName"><br>
+        <label asp-for="PhoneNumber"></label>
+        <input type="text" asp-for="PhoneNumber"><br>
+        <label asp-for="Email"></label>
+        <input type="text" asp-for="Email"><br>
+        <label asp-for="Size"></label>
+        <select asp-for="Size" asp-items="Model.Sizes"></select><br>
+        <label asp-for="Quantity"></label>
+        <input asp-for="Quantity" type="number"><br>
+        <input type="submit" value="Place Order">
+        <br><br>
+        <label>@ViewData["Result"]</label>
+    </form>
+</div>

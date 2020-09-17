@@ -1,0 +1,11 @@
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/obj/Debug/netcoreapp3.1/ReceiptApp.csprojAssemblyReference.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/obj/Debug/netcoreapp3.1/ReceiptApp.AssemblyInfoInputs.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/obj/Debug/netcoreapp3.1/ReceiptApp.AssemblyInfo.cs
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/bin/Debug/netcoreapp3.1/ReceiptApp
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/bin/Debug/netcoreapp3.1/ReceiptApp.deps.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/bin/Debug/netcoreapp3.1/ReceiptApp.runtimeconfig.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/bin/Debug/netcoreapp3.1/ReceiptApp.runtimeconfig.dev.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/bin/Debug/netcoreapp3.1/ReceiptApp.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/bin/Debug/netcoreapp3.1/ReceiptApp.pdb
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/obj/Debug/netcoreapp3.1/ReceiptApp.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/ReceiptApp/obj/Debug/netcoreapp3.1/ReceiptApp.pdb

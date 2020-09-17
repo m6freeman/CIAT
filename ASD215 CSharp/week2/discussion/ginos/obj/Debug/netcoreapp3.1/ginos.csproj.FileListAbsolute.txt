@@ -1,0 +1,11 @@
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/bin/Debug/netcoreapp3.1/ginos
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/bin/Debug/netcoreapp3.1/ginos.deps.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/bin/Debug/netcoreapp3.1/ginos.runtimeconfig.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/bin/Debug/netcoreapp3.1/ginos.runtimeconfig.dev.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/bin/Debug/netcoreapp3.1/ginos.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/bin/Debug/netcoreapp3.1/ginos.pdb
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/obj/Debug/netcoreapp3.1/ginos.csprojAssemblyReference.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/obj/Debug/netcoreapp3.1/ginos.AssemblyInfoInputs.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/obj/Debug/netcoreapp3.1/ginos.AssemblyInfo.cs
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/obj/Debug/netcoreapp3.1/ginos.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/ginos/obj/Debug/netcoreapp3.1/ginos.pdb

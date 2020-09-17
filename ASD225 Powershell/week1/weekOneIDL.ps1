@@ -1,0 +1,1 @@
+Get-EventLog -LogName Application | Select-Object -First 25 | Format-List

@@ -1,0 +1,11 @@
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/bin/Debug/netcoreapp3.1/chapterOneProjectSeven
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/bin/Debug/netcoreapp3.1/chapterOneProjectSeven.deps.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/bin/Debug/netcoreapp3.1/chapterOneProjectSeven.runtimeconfig.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/bin/Debug/netcoreapp3.1/chapterOneProjectSeven.runtimeconfig.dev.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/bin/Debug/netcoreapp3.1/chapterOneProjectSeven.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/bin/Debug/netcoreapp3.1/chapterOneProjectSeven.pdb
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/obj/Debug/netcoreapp3.1/chapterOneProjectSeven.csprojAssemblyReference.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/obj/Debug/netcoreapp3.1/chapterOneProjectSeven.AssemblyInfoInputs.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/obj/Debug/netcoreapp3.1/chapterOneProjectSeven.AssemblyInfo.cs
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/obj/Debug/netcoreapp3.1/chapterOneProjectSeven.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterOneProjectSeven/obj/Debug/netcoreapp3.1/chapterOneProjectSeven.pdb

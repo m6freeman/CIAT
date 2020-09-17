@@ -1,0 +1,719 @@
+T1 44 Miesha :  why you need edge in the USA, it's all covered by wifi
+T-1 44 Krishna *  left the room (quit: "Back to the unreal world...").
+T1 83 Clara :  uh
+T1 83 Clara :  no
+T1 84 Clara :  it's not
+T1 107 Miesha :  no?
+T1 122 Clara :  Where do you live?
+T1 153 Lon :  even in nyc I'm not covered...
+T1 177 Clara :  hell my area just got 3G this week..
+T1 211 Miesha :  lol
+T1 218 Paz :  heh
+T2 228 Paz :  i installed the sdk and i can't find where it was put
+T2 245 Miesha :  /Developers
+T1 249 Lon :  location detection on 2G phones is amazingly accurate in nyc though, almost always guesses the correct block
+T1 303 Miesha :  cool
+T-1 303 Arlyne *  entered the room.
+T1 308 Miesha :  you don't need gps
+T3 318 Arlyne :  hello
+T-1 443 Del *  left the room (quit: Connection timed out).
+T-1 708 Lyle *  left the room (quit: Read error: 110 (Connection timed out)).
+T-1 719 Lyle *  entered the room.
+T-1 874 Suzan *  entered the room.
+T4 925 Suzan :  /DCC SEND THEIPHONEFRIGGINROXMANFORSURE
+T-1 925 Trinity *  left the room (quit: Read error: 104 (Connection reset by peer)).
+T-1 926 Marceline *  left the room (quit: Connection reset by peer).
+T-1 926 Loriann *  left the room (quit: Read error: 104 (Connection reset by peer)).
+T-1 959 Marceline *  entered the room.
+T-1 961 Marceline *  is now known as Marceline
+T-1 965 Trinity *  entered the room.
+T-1 967 Mariel *  entered the room.
+T-1 986 Eryn *  entered the room.
+T-1 1001 Aldo *  entered the room.
+T4 1166 Suzan :  /DCC SEND MOKOFRIGGINROXMANFORSURE
+T-1 1167 Trinity *  left the room (quit: Read error: 104 (Connection reset by peer)).
+T-1 1167 Mariel *  left the room (quit: Read error: 104 (Connection reset by peer)).
+T-1 1170 Suzan *  left the room.
+T-1 1207 Marceline *  entered the room.
+T-1 1210 Trinity *  entered the room.
+T-1 1211 Mariel *  entered the room.
+T-1 1323 Antione *  is now known as Antione
+T-1 1337 Miesha *  left the room (quit: ).
+T1 1422 Dalila :  Clara: i read ur messages
+T-1 1443 Eryn *  left the room (quit: ).
+T1 1490 Dalila :  i lived and worked in many countries , US is having worst cellphone laws and deals, US people dont have freedom in choosing units
+T1 1558 Dalila :  you pay your hard earned money and still you dont enjoy what you paid for
+T5 1577 Nicky :  so this guy calls me up & says that since I have the 4.5 modem firmware on the 1.1.4 JB unlocked iPhone it won't work with T-Mobile?
+T1 1577 Clara :  uh
+T5 1578 Nicky :  WTF
+T5 1582 Nicky :  is this true?
+T1 1598 Clara :  Dalila: I enjoy my iPhone that I payed for... theory debunked.
+T5 1612 Nicky :  4.05.04 baseband
+T1 1742 Dalila :  Clara: you didnt pay for your device, instead you entered into a contract for 24months to work and pay them, if you still enjoy it, thats ur fate
+T1 1784 Clara :  make up your mind: you didnt pay for your device, instead you entered into a contract for 24months to work and pay them, if you still enjoy it, thats ur fate
+T1 1791 Magaret :  'that's your fate'? wtf does fate has to do with it?
+T1 1794 Clara :  Did I steal it or did I pay for it?
+T-1 1832 Rubye *  left the room (quit: "(&#xf; www.nnscript.com ::&#xf; NoNameScript 4.21 ::&#xf; www.esnation.com&#xf; )").
+T1 1838 Clara :  He's obviously a naysaying idiot. Granted, the state of the cellular realm in the US isn't the greatest, but it could be worse.. just look at Canada
+T1 1870 Dalila :  actually i am mobile gadget fan, but i never own a cell phone in US, i just use company mobile. when i was in other countries i use to have my own along with companies
+T1 1913 Magaret :  i'm all about valid criticism, but for chrit's sake, at least express it in a semi-literate way
+T6 1981 Morton :  win 20
+T6 1984 Morton :  err
+T6 1985 Morton :  oops
+T-1 1995 Wm *  entered the room.
+T6 1998 Morton :  Is there a terminal for iphone 2.0 yet?
+T6 2015 Morton :  or SSH client?
+T6 2044 Clara :  there's a free VNC client on the appstore but I haven't seen an SSH one yet
+T1 2078 Dalila :  Magaret: what i am trying to say is , mobile companies should allow ppl to choose contracts and devices separately,  not to glue them together
+T-1 2087 Venus *  entered the room.
+T1 2110 Magaret :  Dalila : now that's a well worded and reasonable argument
+T1 2185 Dalila :  + too many mobile service taxes
+T7 2203 Morton :  how do you play xvid on iphone 2?
+T7 2212 Clara :  Convert it?
+T7 2212 Morton :  it won't let me copy xvid using itunes
+T-1 2219 Marceline *  left the room (quit: Connection timed out).
+T7 2219 Morton :  ugh...
+T7 2234 Morton :  what's the quickest easiest most versatile encoder?
+T7 2247 Clara :  You don't exactly have a lot of options
+T8 2265 Dalila :  some of you ppl must be owning apple machines too, what is your experience
+T1 2273 Magaret :  speaking of taxes, i just recently found out that i get %15 discount from verizon/sprint/at&t mobile plans, as university employee. something that they don't advertise well
+T8 2274 Clara :  I wish :(
+T7 2291 Morton :  don't have a lot of options?
+T7 2296 Morton :  well what do you suggest?
+T1 2305 Clara :  Magaret: My brother just foudn that out a little while ago, pushed him over teh edge towards getting one.. of course now he can't find one hah
+T7 2326 Morton :  I have a windows program that does the job... h.264 quicktime and mp3
+T7 2332 Morton :  at 320x240
+T-1 2344 Antione *  is now known as Antione
+T7 2348 Clara :  sue that
+T7 2351 Clara :  use
+T7 2353 Morton :  but what prog for mac will do it quickly and easily?
+T7 2366 Clara :  oh, dunno don't have a mac yet
+T5 2432 Nicky :  I need help
+T5 2455 Nicky :  will the 1.1.4 f/w w/ 4.05.04 baseband f/w work with T-Mobile in the US
+T7 2468 Dalila :  Morton: i use ffmpeg for all my conversion needs, try it
+T-1 2472 Antione *  is now known as Antione
+T5 2476 Morton :  yeah I've used it before
+T5 2484 Nicky :  I used Pwnage tool & downgraded to 3.9 then upgraded to 4.6 in the options
+T7 2485 Morton :  I just don't know all the options I would punch in
+T7 2500 Morton :  Dalila: do you?
+T7 2516 Morton :  Dalila: you use a GUI to ffmpeg or just CLI?
+T7 2526 Dalila :  cli
+T7 2530 Morton :  I'll just follow this guide http://ubuntuforums.org/showthread.php?t=114946
+T7 2539 Morton :  but ... using macports instead of Apt
+T7 2579 Morton :  weird, did ffmpeg come with Leopard?
+T7 2589 Morton :  I have it in /usr/local/bin for some reason
+T7 2598 Morton :  I don't remember building it myself
+T7 2644 Dalila :  Morton: try ffmped -i <xvid file> <out file>
+T7 2667 Dalila :  i never used mac, dont know
+T7 2689 Dalila :  it is opensource, i don't think apple puts it by default
+T1 2702 Magaret :  hmm, i have to say, this thing charges quite fast
+T8 2768 Dalila :  other day i saw mac air, i really liked the hardware, i played with software too, some how i am not able to convince my self other than linux
+T-1 2795 Glennis *  entered the room.
+T8 2816 Magaret :  Dalila : then don't
+T8 2823 Dalila :  i am big fan of using glossy graphics interface, apple and windows are no where near to Linux desktop experience
+T8 2839 Morton :  o.O
+T8 2842 Magaret :  it's not like it's a religion, and everybody has to believe in your god/gods
+T8 2918 Dalila :  i dont know if i can install linux on apple air with all devices working in it.
+T8 2928 Morton :  wait 'til they get ShapeShifter working again
+T8 2939 Morton :  I wonder what's taking them so long
+T8 2950 Morton :  seems weird all macs have to have the same exact theme
+T8 2968 Magaret :  Dalila : you must have too much spare time on your hands
+T-1 3008 Caterina *  entered the room.
+T8 3009 Dalila :  yes i do, my work is to play, may be i play at my work
+T8 3011 Morton :  I imagine you can... everyone is always talking about doing it on MacBook Pro, so why not Air?
+T-1 3073 Arlyne *  is now known as Arlyne
+T8 3086 Magaret :  Morton : somehow geeks tend to shun devices that don't offer everything-but-the-kitchen-sink
+T8 3150 Dalila :  Morton: installation is not a big challenge , tough part is compiling the code for the wired chips they use in peripherals
+T8 3150 Morton :  yeah... My Mac has made me very productive... that's the main strong point for me
+T8 3175 Morton :  Dalila: I think it's mostly the same besides the SS HD
+T-1 3233 Aldo *  left the room (quit: No route to host).
+T8 3235 Morton :  Dalila: you will be lacking multi-touch... big disappointment for me
+T8 3241 Dalila :  i am productive with my linux machine, i use my laptop just for lotus notes my companies sick email system
+T8 3262 Morton :  I've used Lotus Notes... ick...
+T8 3267 Morton :  that was like 10 years ago
+T8 3276 Morton :  can't believe they're still using that
+T8 3295 Dalila :  some old companies still....
+T8 3328 Morton :  yeah I was very productive on Linux too... which is why I bought a mac really
+T8 3333 Morton :  best of both worlds
+T8 3356 Dalila :  do you also use linux
+T8 3360 Morton :  yeah
+T8 3362 Morton :  a bit
+T8 3368 Magaret :  Dalila : i'm not quite sure what exactly your point is. did you miss the office memo, where it was clearly announced that 'everybody is free to use whatever os they'd like'? if you like linux, fine. if you like macosx, fine. why bother trying to preach?
+T8 3466 Dalila :  just knowing others views
+T-1 3467 Bernardo *  entered the room.
+T8 3486 Dalila :  Magaret: if you have a topic to chat welcome
+T8 3490 Magaret :  you seem to be interested in preaching, rather than learning
+T-1 3516 Magdalena *  entered the room.
+T9 3535 Magdalena :  is anyone having problems with calendar pushing to iphone?
+T9 3563 Magaret :  Magdalena : pushing from where?
+T9 3567 Magdalena :  mobileme
+T-1 3571 Mckinley *  left the room ("Leaving...").
+T8 3571 Dalila :  Magaret: i dont why i came to this room
+T8 3598 Magaret :  Dalila : you're missing a verb there
+T8 3604 Dalila :  ahh want to try iphone os if available,
+T9 3612 Magaret :  Magdalena : in that case, i don't know
+T8 3626 Dalila :  okay
+T9 3635 Magdalena :  Magaret: okay.thanks
+T8 3649 Magaret :  Dalila : visit an apple store
+T8 3655 Dalila :  pardon me for my English, looks like i dont belong here
+T-1 3657 Cheyenne *  entered the room.
+T8 3659 Dalila :  Good night
+T8 3662 Morton :  Dalila:
+T8 3668 Morton :  Dalila: don't listen to rudeness
+T8 3678 Magaret :  Morton : what rudeness?
+T8 3680 Morton :  Dalila: your english is fine
+T9 3729 Magaret :  Magdalena : interestingly enough, i found 'push' from exchange/zimbra to be quite battery consuming. i switched to fetch
+T9 3764 Magdalena :  Dalila: do any of us really ever belong? or do we go through life aimlessly wandering trying to fit in
+T9 3770 Magdalena :  is the iphone 3g battery replaceable?
+T9 3782 Morton :  THAT is the question
+T9 3788 Morton :  I have been wondering
+T9 3802 Morton :  I like to have a backup battery
+T9 3851 Morton :  kind of a bummer... guess I'll have to use one of those battery booster things
+T9 3857 Magaret :  Magdalena : judging by the looks of it, i doubt it. at least not for consumers
+T9 3871 Dalila :  Magdalena: second part of your statement "Quote" is impressive
+T9 3899 Magdalena :  Dalila: thank you
+T9 3899 Magaret :  at least you can charge it from any usb port, unlike a large portion of the phones out there
+T9 3917 Magdalena :  every phone i have had charged from usb
+T9 3921 Magdalena :  but i havent had many
+T9 3926 Morton :  too bad most planes don't have USB ports or power
+T9 3943 Morton :  luckily I rarely fly longer than like six hours or so
+T7 3951 Dalila :  Morton: did you manage to convert your xvid file
+T9 3961 Magaret :  Magdalena : around the office we've had a decent share of phones that charged from usb ONLY if you had the 'appropriate' software loaded
+T-1 3964 Wm *  is now known as Wm
+T7 3970 Morton :  Dalila: no... this will be something I will be perfecting over the next few months I assume
+T7 3980 Morton :  I do have ffmpeg though
+T7 3983 Dalila :  how big is the file
+T7 3983 Morton :  so I'll look into it
+T7 3989 Morton :  700 MB
+T7 3993 Morton :  about
+T7 4002 Magdalena :  how easy is it to get xvid/divx files to play on iphone in a mac?
+T7 4004 Morton :  Should be able to drop to 250MB or so
+T7 4015 Morton :  Magdalena: can't be done without converting
+T7 4015 Magaret :  Morton : a decent laptop can get 6 hours on a battery
+T7 4018 Morton :  to h.264 I think
+T7 4024 Morton :  Magaret: not my macbook pro
+T7 4027 Dalila :  okay i thought it is small file
+T7 4049 Morton :  not unless I turn the brightness way down and avoid playing movies and stuff
+T7 4051 Magaret :  Morton : i said 'decent' :)
+T7 4063 Morton :  what a celeron?
+T7 4063 Morton :  lol
+T7 4075 Morton :  Pentium M?
+T7 4084 Dalila :  let me get some wine
+T7 4088 Lilla *  will be back
+T7 4092 Magaret :  last time i flew for 7 hours, playing movies all the way through. xps m1330 with the bigger battery
+T7 4107 Magaret :  so no, not celeron nor pentium m. core 2 duo
+T7 4112 Morton :  cool
+T7 4126 Morton :  yeah.. I might just have to buy a 2nd battery
+T7 4168 Morton :  ugh don't make me regret buying my mac...
+T7 4169 Morton :  :\
+T7 4178 Morton :  it took me so long to make the decision
+T7 4179 Morton :  lol
+T7 4181 Magaret :  :)
+T7 4200 Bernardo :  I have a $3,000 desktop and I'm wish I had a mac..
+T7 4203 Bernardo :  wishing*
+T7 4212 Morton :  those new HP laptops are so nice looking too... slim design
+T7 4217 Magaret :  personally, i buy neither. i have work-provided macbook pro and dell xpsm1330
+T7 4227 Morton :  wow
+T7 4230 Morton :  nice job you got
+T7 4230 Bernardo :  wow
+T7 4234 Bernardo :  indeed
+T7 4273 Magaret :  working for the state has its perks on occasion
+T7 4282 Magdalena :  later guys
+T7 4284 Magdalena :  thanks for the help
+T-1 4287 Magdalena *  left the room (quit: ).
+T7 4291 Morton :  oh yeah
+T7 4294 Morton :  my dad worked for the state
+T7 4296 Morton :  for 20 years
+T7 4308 Morton :  he was telecommuting in 1989
+T7 4318 Morton :  on a company laptop
+T-1 4341 Wm *  is now known as Wm
+T7 4354 Magaret :  eventhough i still get vast majority of work on this xps, the macbook pro is a nice addition. [this doesn't count the new imac i got]
+T-1 4364 Tomoko *  left the room (quit: Read error: 110 (Connection timed out)).
+T7 4418 Magaret :  come to think of it, i do have a lot of work provided toys :) [dell xps m1330 & macbook pro & imac at home, older imac and new optiplex gx755 at work]
+T7 4424 Morton :  funny how they can be so stingy on some things and so liberal on a different day
+T7 4442 Morton :  I worked on a state contract once
+T-1 4452 Lonny *  left the room.
+T7 4458 Magaret :  Morton : yep. the pay is fairly low, but they spend money on other things
+T7 4466 Magaret :  not to mention the benefits are just great
+T7 4478 Morton :  tried to explain they didn't need two load-balancing servers and dual SCSI interface
+T7 4491 Morton :  but they insisted... then they backed out because of the price!
+T-1 4496 Clara *  left the room (quit: Read error: 110 (Connection timed out)).
+T7 4527 Morton :  yeah benefits don't get much better
+T7 4587 Dalila :  gov jobs private jobs which one are better in us for cool living
+T-1 4596 Demetrice *  left the room (quit: ).
+T7 4626 Morton :  gov jobs probably more stressful in general
+T7 4647 Morton :  how's the vacation time Magaret?
+T7 4660 Morton :  my dad had a lot of vacation time... not sure how
+T7 4666 Magaret :  Dalila : gov jobs. that's pretty much standard all over the world, the government jobs tend to have better benefits
+T-1 4670 Aldo *  entered the room.
+T7 4715 Magaret :  Morton : for USA standards, i get quite a lot. 32 paid vacation days a year [not counting sick/etc]
+T-1 4719 Cortney *  is now known as Cortney
+T-1 4727 Glennis *  left the room (quit: Connection reset by peer).
+T7 4731 Morton :  yeah that's pretty good
+T7 4744 Dalila :  i get just 14 days
+T7 4780 Dalila :  i am only a two years old in US
+T7 4797 Dalila :  i am only two years old in US
+T7 4821 Magaret :  Dalila : i think you meant to say 'i've been in US for only two years'
+T7 4847 Dalila :  Magaret: thanks for correction, yes
+T7 4863 Dalila :  i am very bad in using english words
+T7 4958 Morton :  have you seen any multi-player games that work over the net for iphone?
+T7 4990 Dalila :  i think my problem is working too much in computer languages, after a while my general English speaking and goes in way like short cuts
+T-1 4997 Heriberto *  entered the room.
+T7 5065 Dalila :  Magaret: how do you like your dell monitor
+T7 5078 Dalila :  they have good monitors
+T7 5093 Magaret :  Dalila : which one? :) yeah, they're nice
+T7 5122 Dalila :  i read your statements like you have $3000 desktop from dell
+T7 5133 Magaret :  at work i currently use two 24" wide screen ones, they're not bad. certainly got better over the years
+T7 5133 Bernardo :  no
+T7 5137 Magaret :  Dalila : it was Bernardo
+T7 5145 Dalila :  oops sorry
+T7 5148 Bernardo :  I have a self-built $3000 system
+T7 5175 Bernardo :  Well, $3000 a year ago
+T7 5176 Bernardo :  Even with that, I'm considering a MBP
+T7 5178 Dalila :  wooooow
+T7 5194 Antione :  Bernardo: get a MBP
+T7 5195 Antione :  17"
+T7 5203 Bernardo :  That doesn't include the 23" Apple Cinema...
+T7 5213 Antione :  then get a 15" and get a 23" cinema
+T7 5218 Bernardo :  No no
+T7 5220 Bernardo :  I have a 23"
+T7 5222 Dalila :  Bernardo: i did mine too but for $1500+
+T7 5235 Bernardo :  Antione: Was saying $3000 was JUST the box
+T7 5248 Bernardo :  Already had the display
+T7 5248 Antione :  oh
+T7 5248 Antione :  ok
+T7 5248 Antione :  then get a 17" MBP
+T7 5250 Bernardo :  heh
+T7 5261 Antione :  I have a 16"
+T7 5262 Bernardo :  I think that might be too big
+T7 5262 Antione :  15"*
+T7 5263 Antione :  I love it
+T7 5270 Bernardo :  I was thinking about a 15 for ~$2700
+T7 5272 Magaret :  23-24" imho is just the right size. we have a dozen or more 30" apple cinemas, and they are just way too big
+T7 5272 Dalila :  what monitor you use Bernardo
+T7 5283 Bernardo :  Dalila: As I said, a 23" Apple Cinema
+T7 5287 Antione :  he already said 23" Cinema
+T7 5287 Antione :  lol
+T7 5295 Bernardo :  The current model
+T7 5297 Dalila :  sorry i missed that line
+T7 5304 Antione :  he said it 5 times
+T7 5305 Antione :  lol
+T7 5313 Bernardo :  Magaret: I would have a 30" but I decided to hold off for LED backlit models
+T10 5319 Nicky :  Antione will know my questions answer
+T10 5328 Antione :  what
+T7 5344 Bernardo :  Magaret: In my line of work there's no such thing as too big
+T10 5355 Nicky :  iPhone 8 GB 1st Gen, from 2.0 software down to 1.1.4 w/ iPwnage Tool with Modem f/w 04.05.04
+T7 5357 Magaret :  Bernardo : good choice. this dell laptop i'm typing from now, xps m1330, has one. it's exceptionally bright
+T10 5367 Nicky :  will that work on T-Mobile in the USA?
+T7 5374 Bernardo :  I've had it for years
+T7 5377 Dalila :  i use 19' samsung wide 2ms response time, i got for $120 for before to before thanks giving
+T7 5380 Bernardo :  I love it
+T7 5391 Nicky :  2ms is great
+T7 5396 Bernardo :  I feel constrained on my 2x 20"s at work
+T7 5406 Bernardo :  Even though I technically have more space
+T10 5419 Dalila :  Nicky: it is good
+T7 5428 Magaret :  Bernardo : my director has 2x 30". i don't see how it's humanly possible to use that
+T7 5439 Bernardo :  Magaret: Then you've obviously never done programming ;)
+T7 5442 Dalila :  lon Magaret
+T7 5447 Dalila :  lol Magaret
+T-1 5449 Joey *  left the room.
+T-1 5451 Wm *  is now known as Wm
+T7 5458 Magaret :  Bernardo : i leave that for the crazies :)
+T7 5462 Harriet *  is a sysadmin
+T7 5465 Bernardo :  Then call me crazy ;)
+T7 5477 Bernardo :  I like sysadmins
+T7 5484 Bernardo :  They make sure my shit keeps running smoothly
+T7 5501 Magaret :  Bernardo : of course. somebody has to fix what the programmers make :)
+T7 5503 Bernardo :  Though at my current job I basically am the sysadmin amongst other things
+T7 5515 Bernardo :  Hey now
+T7 5525 Magaret :  it's a joke. note the blatant ':)'
+T7 5530 Bernardo :  ;)
+T-1 5544 Wm *  is now known as Wm
+T7 5568 Dalila :  Bernardo: how many gpus you use
+T7 5575 Bernardo :  gpus? Just the one
+T7 5576 Bernardo :  sadly
+T7 5590 Dalila :  doesnt support more than one?
+T7 5594 Bernardo :  Oh it does
+T7 5599 Dalila :  great
+T7 5620 Magaret :  do you really need more than one? unless you do some major 3d live rendering, a single decent nvidia card can do it
+T7 5632 Bernardo :  Magaret: At the resolution I run, yes a second would help
+T7 5633 Dalila :  same here when i purchased parts i just got one , later i bought another gpu on ebay for dirt cheap
+T7 5640 Bernardo :  But the second card is out of stock and still too high priced for this much later in the game, especially with teh GeForce 9 AND 200s out
+T7 5657 Bernardo :  I liekly will stay with the one for this system
+T7 5667 Bernardo :  I actually priced a new system with 3x in it
+T7 5683 Bernardo :  but I can't justify a new system any time soon
+T7 5693 Bernardo :  As it is I can't really justify a laptop
+T7 5809 Dalila :  i use gForce 6600GT two cards
+T7 5811 Magaret :  my brother just bought one of those xps m1330's. $1100 for a configuration with LED display, 4GB ram, etc
+T7 5815 Bernardo :  I have a single 8800 GTX
+T7 5827 Dalila :  second one i got for $20 (used)
+T7 5852 Dalila :  wroks great
+T7 5902 Dalila :  Bernardo: when you use two , even lower model cards will perform better
+T7 5920 Bernardo :  well the plan was to get two 8800GTXs
+T7 5932 Bernardo :  still might
+T7 5947 Dalila :  i spend $1500 almost three years ago, i planned to use the system for the next seven years
+T7 5974 Bernardo :  seven? damn
+T7 5984 Bernardo :  I'm a heavy gamer, 3 years is my max lifetime
+T7 5989 Dalila :  i might consider changing to dual core AMD
+T7 5998 Bernardo :  half the lifetime for twice the price hihgh
+T7 6001 Bernardo :  hihgh = heh
+T7 6007 Bernardo :  don't, go Intel
+T7 6015 Bernardo :  I have a FX-62 and regret it
+T7 6036 Dalila :  FX i dont have good impression
+T7 6050 Dalila :  i use Athalon 64bit
+T7 6097 Dalila :  i saw other day Quad core HP machine with good 25 inch monitor for $3000
+T7 6100 Dalila :  at costco
+T7 6144 Dalila :  Bernardo: let me know when you sell ur machine ;)
+T-1 6161 Lyle *  left the room (quit: Read error: 104 (Connection reset by peer)).
+T7 6168 Bernardo :  you don't even know what else is in it lol
+T-1 6184 Lyle *  entered the room.
+T7 6188 Dalila :  ;)
+T7 6225 Bernardo :  FX-62, 4GB DDR2 (XMS2), 150GB RaptorX, 2x 250GB, 2x 500GB (~1.5TB total), X-Fi gamer pro
+T7 6233 Bernardo :  and the 8800GTX
+T7 6303 Dalila :  all SATA's?
+T7 6309 Bernardo :  yup
+T7 6316 Dalila :  3.0
+T7 6321 Dalila :  ?
+T7 6325 Bernardo :  mmm think so, not 100% sure
+T7 6352 Bernardo :  and a SATA dvd burner, but it's broken I need to send it back
+T11 6356 Morton :  I synced some stuff from my iTunes to my girlfriend's iPhone... now it is charging her apps to my iTunes... how do I set it to her's?
+T7 6367 Dalila :  i have one 1.5 and two 3.0 with 8mb cache, great speeds i get with them
+T7 6389 Bernardo :  Pretty sure the raptor is, if any were 1.5 it'd be the 250s, those were from a previous system
+T7 6393 Dalila :  i use for video editing on 3.0's
+T7 6409 Bernardo :  Ah video editing, I remember those days
+T7 6412 Dalila :  what mobo you have
+T-1 6420 Desire *  entered the room.
+T7 6424 Bernardo :  Asus Crosshair
+T7 6443 Dalila :  i use Asus SLI Deluxe
+T7 6446 Bernardo :  Anyone here have a Mac Mini?
+T7 6458 Bernardo :  Dalila: It's an nforce 590 sli
+T7 6479 Dalila :  Bernardo: your config is better than mine
+T7 6494 Bernardo :  That's the idea
+T7 6495 Bernardo :  ;)
+T7 6495 Dalila :  i can make cluster with them and get great juice out of it
+T7 6561 Dalila :  Bernardo: mac mini is DDN size i belive
+T7 6569 Bernardo :  huh?
+T7 6588 Bernardo :  I was just going to ask how XCode performs on one, I was considering it as a cheaper alternative to do iphone dev than a MBP
+T7 6593 Dalila :  i still have a plan of putting mac mini in my nissan maxima
+T7 6602 Bernardo :  i don't see much point to a MBP now that I have an iPhone
+T7 6620 Bernardo :  outside of work and home I don't stay in one place long enough to ues a full fledged laptop
+T11 6648 Magaret :  Morton : it seems that anytime i'd lock the iphone, unlock it, and go back to the apple store, it would ask me for my apple ID
+T11 6659 Morton :  that's good
+T11 6662 Bernardo :  only your password
+T11 6668 Bernardo :  it keeps my account name
+T11 6689 Magaret :  Bernardo :true, i guess the point i was making is that you can change it then
+T11 6695 Dalila :  okay guyz keep going, it is late for me, time for bed
+T11 6696 Bernardo :  oh ok
+T11 6703 Dalila :  Good night
+T11 6703 Bernardo :  cya Dalila
+T11 6712 Dalila :   C U
+T11 6716 Bernardo :  They really ought to port XCode to windows
+T-1 6719 Dalila *  left the room ("Ex-Chat").
+T11 6752 Bernardo :  $600 minimum to see if I'm even interested in learning ObjC is a bit tough to swallow
+T-1 7061 Arlyne *  left the room (quit: ).
+T-1 7312 Lyle *  left the room (quit: "Leaving").
+T-1 7328 Wm *  left the room (quit: ).
+T-1 7340 Emmie *  left the room (quit: ""To the last, I grapple with thee... From Hell's heart, I stab at thee... For hate's sake, I spit my last breath at thee..." ).
+T-1 7776 Joselyn *  entered the room.
+T12 7861 Joselyn :  anyone else got MobileMe problems?
+T-1 7958 Johanne *  entered the room.
+T-1 7971 Amada *  left the room (quit: Read error: 60 (Operation timed out)).
+T12 8196 Joselyn :  anyone else having mobile me mail problems?
+T-1 8224 Joselyn *  left the room (quit: ).
+T-1 8237 Joselyn *  entered the room.
+T-1 8366 Abel *  entered the room.
+T-1 8532 Mei *  left the room (quit: ).
+T-1 8540 Genevieve *  left the room (quit: Remote closed the connection).
+T-1 8886 Mei *  entered the room.
+T12 9114 Antione :  Joselyn: it's not working at top notch
+T-1 9241 Eryn *  entered the room.
+T-1 9485 Paz *  left the room (quit: ).
+T-1 9538 Pauline *  entered the room.
+T-1 9556 Paz *  entered the room.
+T-1 9685 Pauline *  left the room (quit: Client Quit).
+T12 9870 Joselyn :  Antione: ?
+T-1 9884 Shirley *  entered the room.
+T-1 10209 Aldo *  left the room (quit: Connection timed out).
+T-1 10444 Thu *  left the room (quit: ).
+T-1 10454 Johana *  entered the room.
+T-1 10848 Desire *  left the room (quit: ).
+T-1 11174 Philip *  entered the room.
+T-1 11603 Abel *  left the room (quit: ).
+T-1 11638 Regan *  entered the room.
+T-1 12049 Terresa *  entered the room.
+T13 12105 Terresa :  hey
+T-1 12108 Owen *  entered the room.
+T-1 12391 Terresa *  left the room (quit: ).
+T-1 12440 Terresa *  entered the room.
+T-1 12848 Regan *  left the room (quit: Read error: 110 (Connection timed out)).
+T-1 12943 Johana *  left the room ("Leaving").
+T-1 12986 Lincoln *  entered the room.
+T-1 13171 Aldo *  entered the room.
+T-1 13524 Philip *  left the room (quit: ).
+T-1 14414 Owen *  left the room (quit: Read error: 110 (Connection timed out)).
+T-1 14493 Eryn *  left the room (quit: Read error: 60 (Operation timed out)).
+T-1 14640 Terresa *  left the room (quit: ).
+T-1 14908 Sierra *  entered the room.
+T-1 14936 Sierra *  left the room (quit: Client Quit).
+T-1 14977 Lincoln *  left the room (quit: Read error: 110 (Connection timed out)).
+T14 15092 Nicky :  what do I do with my Gen 1 iPhones SIM card now that I sold it?
+T14 15105 Nicky :  scrape my Mini crs window when it frosts up?
+T14 15107 Nicky :  ;-)
+T14 15125 Antione :  yeah
+T14 15127 Antione :  no really
+T14 15129 Antione :  destroy it
+T14 15136 Antione :  put it in a phone and lock it
+T14 15136 Nicky :  wha?
+T14 15143 Antione :  lock the SIM
+T14 15145 Nicky :  yikes
+T14 15146 Antione :  put a SIM lock on it
+T14 15154 Antione :  so that when you turn the phone on
+T14 15156 Antione :  it asks for a password
+T14 15158 Nicky :  I like having techy stuff around
+T14 15168 Nicky :  why would I do that?
+T14 15172 Antione :  but before you choose a password, it asks you for the PUK code
+T14 15181 Antione :  get it wrong 3 times
+T14 15186 Antione :  and it destroys the SIM
+T14 15194 Antione :  without physically destroying it
+T14 15216 Antione :  (steps above easiest done with an iPhone)
+T14 15222 Nicky :  really
+T14 15228 Antione :  yes
+T14 15229 Nicky :  so do you do any unlocking & stuff?
+T14 15231 Antione :  or so AT&T says
+T14 15241 Nicky :  I sold my 1st Gen 8 GB iphone today for $275
+T14 15243 Antione :  I called them after getting the PUK code wrong twice
+T14 15247 Antione :  when I wanted to SIM lock my phone
+T-1 15254 Tina *  entered the room.
+T14 15256 Antione :  never knew the 3rd time killed it
+T14 15256 Antione :  lol
+T14 15262 Bernardo :  I didn't think anything was stored on the SIMs for the iphones..
+T14 15263 Antione :  was close
+T14 15268 Antione :  account info
+T14 15268 Tina :  how is it with jailbreaking iphone 3G?
+T14 15270 Bernardo :  ah
+T14 15275 Antione :  Tina: nope
+T14 15293 Antione :  Bernardo: the SIM works the same way for every phone
+T14 15303 Antione :  it tells the phone that it should make/receive calls from x number
+T14 15313 Bernardo :  I thought it stored contacts and such for other phones
+T14 15319 Antione :  no
+T14 15323 Antione :  that's only if you store contacts on it
+T14 15323 Antione :  lol
+T14 15329 Antione :  but that's not where all the contacts are kept
+T14 15337 Antione :  the contacts are just kept on the phone's memory
+T14 15341 Antione :  by default..
+T14 15349 Bernardo :  hm
+T14 15364 Wilbert :  hmm
+T14 15368 Wilbert :  i have a SIM question :)
+T14 15389 Wilbert :  if i take my iphone3g sim and put it into another at&t phone, will it work?
+T14 15398 Wilbert :  like will the data plan still work?
+T14 15402 Antione :  theoretically, yes
+T14 15406 Antione :  but in reality, no
+T14 15413 Wilbert :  what do you mean?
+T14 15417 Antione :  for example
+T14 15426 Antione :  it should work, since all AT&T SIMs are the same
+T14 15440 Antione :  but it won't work, because of the specific info it has stored on the SIM
+T14 15445 Nicky :  from 2.0 software back to 1.1.4 with Modem Firmware 04.05.04 it should work with T-Mobile
+T14 15446 Antione :  like....the IMEI number, for example
+T14 15450 Wilbert :  hmm
+T14 15458 Wilbert :  i put my sim in my friend's Tilt today
+T14 15462 Wilbert :  and it made calls
+T14 15478 Antione :  UMTS is UMTS
+T14 15488 Wilbert :  yeah
+T14 15489 Antione :  the Tilt is 3G, I believe
+T14 15492 Antione :  but
+T14 15493 Wilbert :  yeah it is
+T14 15502 Antione :  AT&T keeps track of everything
+T14 15510 Antione :  and it will know whether or not you're using an iPhone
+T14 15514 Wilbert :  right
+T14 15515 Wilbert :  interesting
+T14 15519 Wilbert :  so scenario
+T14 15530 Tina :  Antione: so I will have to wait till it come to my country ? :/
+T14 15533 Wilbert :  god forbid, i crack my screen
+T14 15535 Wilbert :  take my sim out
+T14 15539 Wilbert :  put it into another phone
+T14 15544 Wilbert :  at&t is going to bitch at me?
+T14 15557 Antione :  Tina: well it's going to come out on the internet, so you wait until that, and you can download it
+T14 15567 Antione :  Tina: it will be software....it's just going to be a new version of the pwnagetool
+T14 15586 Antione :  Wilbert: if it's not an iPhone, and you didn't register it with AT&T
+T14 15586 Antione :  yes
+T14 15604 Antione :  they will tell you you're using a data plan on an unauthorized phone
+T14 15611 Wilbert :  wow
+T14 15613 Antione :  and you will need to pay a termination fee and start up a new plan/contract
+T14 15623 Antione :  if you want to continue what you're doing
+T14 15624 Wilbert :  ok so i guess my idea isnt going to work
+T14 15631 Antione :  otherwise, you go back to the iPhone
+T14 15645 Wilbert :  i wanted to get a winmo phone, so when i needed to tether i could just pop my sim into that and use it
+T14 15656 Antione :  that's even worse
+T14 15660 Wilbert :  yeah
+T14 15660 Antione :  since they'll be able to tell right away
+T14 15662 Wilbert :  from what your saying
+T14 15666 Antione :  and you're tethering it, so they will be even angrier
+T14 15668 Antione :  so to speak
+T14 15675 Wilbert :  well i'd be able to make it so they can't tell that im tethering
+T14 15681 Wilbert :  it will just look like data usage
+T14 15685 Wilbert :  but sitll
+T14 15687 Wilbert :  just as bad i guess
+T14 15690 Wilbert :  if they care about the device
+T14 15741 Antione :  they will tell
+T14 15747 Tina :  Antione: but I heard that you can't get iphone 3g that easily, that you have to active it at AT&T
+T14 15752 Antione :  when the phones access info from the towers/AT&T
+T14 15761 Antione :  it sends the IMEI number
+T14 15763 Antione :  along with it
+T14 15767 Antione :  among other info
+T14 15776 Antione :  SIM has one IMEI number
+T14 15779 Antione :  phone has another
+T14 15781 Antione :  money pit for AT&T
+T14 15789 Antione :  Tina: where do you live?
+T14 15868 Nicky :  people, myself included, were in line at the Mall of America Apple Store untill closing on Thursday night.
+T14 15877 Antione :  mall of america
+T14 15877 Antione :  go
+T14 15878 Antione :  d
+T14 15882 Antione :  that must have been hell
+T14 15890 Antione :  I waited 45 minutes
+T14 15891 Antione :  :)
+T14 15895 Nicky :  it was the 1st time they had stock & people to keep them going past closing time
+T14 15937 Tina :  Antione: slovakia
+T14 15951 Antione :  ah
+T14 15952 Antione :  yeah
+T14 15953 Antione :  you'll have to wait
+T14 15960 Nicky :  man I LOVE having a 16 GB iPhone, I have over 5 GB left & everything I really want on it
+T14 15961 Antione :  or buy an unlocked one from Belgium or Hong Kong
+T14 15979 Antione :  Nicky: heh, I had the 16GB since the 1st gens had them
+T-1 16038 Jimmy *  entered the room.
+T14 16065 Jimmy :  Anyone having problems having mobile me push information to the iPhone?
+T14 16071 Antione :  join the club
+T14 16074 Nicky :  I know
+T14 16080 Nicky :  I recall quit ewell
+T14 16091 Nicky :  I may lurk but I pay attention
+T14 16097 Nicky :  to a point
+T14 16098 Antione :  Pushing is fine when you GET the email
+T14 16106 Antione :  but anything after that is a drop in the bucket
+T14 16109 Jimmy :  Just read that if you delete mobile me off the iphone and reinstall , should be fine
+T14 16120 Nicky :  "push" is a buzzword or catch phrase or marketing term
+T14 16120 Antione :  that was for the older folks
+T14 16125 Antione :  now it's just useless
+T14 16159 Nicky :  BTW Mobile Me update for iPhone came out today on my G5
+T14 16163 Nicky :  1.1
+T14 16209 Tina :  Antione: btw iphone there is really expensive!
+T14 16223 Antione :  Tina: they're unlocked, that's why
+T14 16228 Antione :  Nicky: old
+T14 16236 Nicky :  does anyone know what speed the 3G's CPU runs at?
+T14 16258 Wilbert :  Antione: http://tnkgrl.wordpress.com/2008/07/11/the-iphone-3g-works-with-any-att-sim/
+T14 16267 Mei :  600mhz
+T14 16287 Antione :  Wilbert: sure it does
+T14 16294 Antione :  but that's not what we were talking about
+T14 16341 Tina :  berzerker: in USa they are locked but they can be unlocked no?
+T14 16347 Antione :  not yet
+T14 16352 Antione :  the tool is not released yet
+T-1 16375 Stefanie *  entered the room.
+T14 16384 Jimmy :  Well I just reinstalled and it picked up my changes, but no more changes
+T14 16414 Jimmy :  I wonder if stuff from mobile me is pushed to the phone, or is it fetched by the phone like every 15 min?
+T-1 16421 Darleen *  entered the room.
+T14 16429 Tina :  berzerker: ok so best would be wait to releasing and buy it over ebay
+T14 16453 Antione :  Tina: yes, but you will have to wait a while, since AT&T requires in store activation
+T14 16463 Antione :  Jimmy: mobileme -> phone is instant
+T14 16466 Antione :  or is supposed to be
+T14 16511 Jimmy :  I wonder why then it just does not seem to work correctly, must be an apple thing
+T14 16540 Antione :  they're still working out the kinks
+T14 16543 Antione :  I mean...it's only been out a week
+T14 16550 Jimmy :  That is true
+T14 16570 Jimmy :  I really love the concept, but cannot see spending 99 a year if it remains buggy
+T14 16664 Jimmy :  And the Mac syncs to mobile me on a schedule huh
+T14 16690 Antione :  it definitely will not remain buggy
+T14 16695 Antione :  it will also get better as 2.0 gets better
+T14 16715 Jimmy :  You mean with an iPhone 2.0 update?
+T14 16767 Antione :  yes
+T14 16771 Antione :  2.0 is very buggy as it is
+T14 16782 Antione :  push being a problem is also sort of 2.0's fault
+T14 16792 Antione :  ActiveSync isn't at it's peak performance on the iPhone either
+T14 16796 Jimmy :  I have not read anything about apple admitting to any bugs
+T14 16802 Antione :  they won't
+T14 16804 Antione :  why would they?
+T14 16817 Jimmy :  Just to know that they know and are working on it
+T14 16903 Jimmy :  2.0 does seem buggy, my phone has even froze a few times
+T14 16927 Nicky :  Hahahahah
+T14 16934 Nicky :  mone how NOT frozen a few times
+T14 16946 Nicky :  from one upgraded one to my new 3G one
+T14 16951 Nicky :  it's the 3rd party apps
+T14 16974 Nicky :  a jailbrokne iPhone, imho, was MUCH more stable than Apples solution is
+T14 16983 Jimmy :  col
+T14 16984 Nicky :  & it makes me angry & concerned
+T14 16986 Jimmy :  cool
+T14 17003 Nicky :  that is not a good situation
+T14 17032 Nicky :  because as soon as I JB my 1.1.4 iPhone it was pretty DAMN rock solid as far as the OS goes
+T14 17032 Jimmy :  well they want control i suppose
+T14 17043 Nicky :  it will be good again
+T14 17053 Nicky :  2.0.5 I guess or something to that effect
+T14 17069 Nicky :  I hope to see 2.0.1 or 2.0.2 soon enough
+T14 17092 Jimmy :  I guess osx at the beginning was a little unstable too
+T14 17092 Antione :  2.0.1 we'll see so
+T14 17093 Antione :  on
+T14 17117 Nicky :  you could say a little
+T14 17123 Nicky :  NO dvd Player app at all
+T14 17134 Nicky :  buggy as fuck, really
+T14 17144 Nicky :  OS X.0 was attrocious
+T14 17149 Nicky :  I never used it
+T14 17169 Jimmy :  So I guess iPhone will go through kind of the same process
+T14 17175 Nicky :  10.1.5 was my 1st owned Mac B&W that had OS X installed
+T14 17180 Nicky :  I was amazed, really
+T14 17185 Nicky :  of course
+T14 17188 Jimmy :  I have a touch, and it seems more stable
+T14 17208 Nicky :  but Apple knows SO much about their UNIX underpinnings now it is good
+T14 17233 Nicky :  with the Darwin kernel able to work on a variety of devices
+T14 17259 Nicky :  & keep in mind that lots of Apples core technologies are opensource
+T14 17272 Nicky :  that was a very very good decision imho
+T14 17290 Nicky :  kudos awarded to Apple Inc. +1
+T14 17311 Jimmy :  Well so I guess it was not me and how I set up the phone
+T14 17394 Antione :  anything before 10.5 is disgusting
+T-1 17462 Ward *  entered the room.
+T14 17580 Nicky :  not so
+T14 17591 Nicky :  10.3 was a large leap forward
+T14 17611 Stefanie :  Antione, regarding the 'making a webpage'     .... did you have anything made yet. and were you thinking it had to be a 'mac looking' website?
+T14 17623 Nicky :  since then it was stablity (attempted) & fluff for eye appeal
+T14 17631 Stefanie :  (im replying to the words in the topic)
+T14 17633 Antione :  Stefanie: we do have a sample layed out
+T14 17645 Antione :  you can make one if you like
+T14 17651 Antione :  but we already had someone volunteer, nothing final yet
+T14 17682 Stefanie :  ah yea, im just going to be making another site for my friend next week, then i read that note. figured might as well make 2 at once
+T14 17693 Stefanie :  but yea, ill just stay tuned or whatever
+T14 17729 Stefanie :  and who knows if im even good :d
+T14 17778 Stefanie :  hmm ok i have a question, was it possible to buy an unactivated 1st gen iphone before?
+T14 17848 Antione :  yyes
+T14 17855 Antione :  all iPhone were purchased unactivated
+T14 17903 Stefanie :  ooh right, then at home via the pc   i forgot
+T14 17939 Stefanie :  hehe, i wonder if its offensive to call a macbook  the generic term 'pc'
+T14 17944 Antione :  NO
+T14 17945 Antione :  NEVER.
+T-1 17960 Tina *  left the room.
+T14 18181 Stefanie :  hehe   , those dang comercials ^^            point taken
+T-1 18242 Heriberto *  left the room (quit: "Leaving").
+T-1 18283 Pauline *  entered the room.
+T-1 18398 Jimmy *  left the room (quit: ""Go ahead with your own life, leave me alone" Billy Joel").
+T-1 18619 Latisha *  left the room (quit: "Leaving...").
+T-1 18803 Latisha *  entered the room.
+T-1 19099 Pauline *  left the room.
+T-1 19279 Bernardo *  left the room (quit: Read error: 104 (Connection reset by peer)).
+T-1 19900 Peg *  entered the room.
+T-1 20087 Kazuko *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20087 Kevin *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20087 Marketta *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20087 Renna *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20087 Klara *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20087 Cathey *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20087 Alexander *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20087 Brittaney *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20087 Tijuana *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20087 Lakesha *  left the room (quit: niven.freenode.net irc.freenode.net).
+T-1 20109 Kazuko *  entered the room.
+T-1 20109 Kevin *  entered the room.
+T-1 20109 Marketta *  entered the room.
+T-1 20109 Renna *  entered the room.
+T-1 20109 Klara *  entered the room.
+T-1 20109 Brittaney *  entered the room.
+T-1 20109 Alexander *  entered the room.
+T-1 20109 Tijuana *  entered the room.
+T-1 20109 Lakesha *  entered the room.
+T-1 20444 Steven *  entered the room.
+T-1 20451 Steven *  left the room ("Bye bye").
+T-1 20771 Nicky *  left the room (quit: "Shake em if ya got em (  .  Y  .").
+T-1 20816 Eryn *  entered the room.

@@ -1,0 +1,1 @@
+for i, j in enumerate("The string") : print(i, j)

@@ -1,0 +1,11 @@
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/obj/Debug/netcoreapp3.1/chapterThreeProjectThree.csprojAssemblyReference.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/obj/Debug/netcoreapp3.1/chapterThreeProjectThree.AssemblyInfoInputs.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/obj/Debug/netcoreapp3.1/chapterThreeProjectThree.AssemblyInfo.cs
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/bin/Debug/netcoreapp3.1/chapterThreeProjectThree
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/bin/Debug/netcoreapp3.1/chapterThreeProjectThree.deps.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/bin/Debug/netcoreapp3.1/chapterThreeProjectThree.runtimeconfig.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/bin/Debug/netcoreapp3.1/chapterThreeProjectThree.runtimeconfig.dev.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/bin/Debug/netcoreapp3.1/chapterThreeProjectThree.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/bin/Debug/netcoreapp3.1/chapterThreeProjectThree.pdb
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/obj/Debug/netcoreapp3.1/chapterThreeProjectThree.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week1/chapterThreeProjectThree/obj/Debug/netcoreapp3.1/chapterThreeProjectThree.pdb

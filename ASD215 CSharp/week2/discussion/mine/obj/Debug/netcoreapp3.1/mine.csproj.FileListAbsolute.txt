@@ -1,0 +1,11 @@
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/bin/Debug/netcoreapp3.1/mine
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/bin/Debug/netcoreapp3.1/mine.deps.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/bin/Debug/netcoreapp3.1/mine.runtimeconfig.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/bin/Debug/netcoreapp3.1/mine.runtimeconfig.dev.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/bin/Debug/netcoreapp3.1/mine.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/bin/Debug/netcoreapp3.1/mine.pdb
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/obj/Debug/netcoreapp3.1/mine.csprojAssemblyReference.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/obj/Debug/netcoreapp3.1/mine.AssemblyInfoInputs.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/obj/Debug/netcoreapp3.1/mine.AssemblyInfo.cs
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/obj/Debug/netcoreapp3.1/mine.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/discussion/mine/obj/Debug/netcoreapp3.1/mine.pdb

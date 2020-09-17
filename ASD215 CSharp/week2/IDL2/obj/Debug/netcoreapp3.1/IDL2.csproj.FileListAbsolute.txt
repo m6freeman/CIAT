@@ -1,0 +1,11 @@
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/bin/Debug/netcoreapp3.1/IDL2
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/bin/Debug/netcoreapp3.1/IDL2.deps.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/bin/Debug/netcoreapp3.1/IDL2.runtimeconfig.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/bin/Debug/netcoreapp3.1/IDL2.runtimeconfig.dev.json
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/bin/Debug/netcoreapp3.1/IDL2.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/bin/Debug/netcoreapp3.1/IDL2.pdb
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/obj/Debug/netcoreapp3.1/IDL2.csprojAssemblyReference.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/obj/Debug/netcoreapp3.1/IDL2.AssemblyInfoInputs.cache
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/obj/Debug/netcoreapp3.1/IDL2.AssemblyInfo.cs
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/obj/Debug/netcoreapp3.1/IDL2.dll
+/home/matt/Documents/CIAT/ASD215 CSharp/week2/IDL2/obj/Debug/netcoreapp3.1/IDL2.pdb
