@@ -5,8 +5,7 @@ Function WhatIsUp {
         "Argument number: $($args.Count)"
         foreach ($item in $args)
         {
-            $index = $args.IndexOf($item)
-            "$($index + 1). Argument: $item"
+            "$($args.IndexOf($item) + 1). Argument: $item"
         }
     }
     Else
@@ -14,3 +13,5 @@ Function WhatIsUp {
         "You haven't specified any arguments!"
     }
 }
+
+WhatIsUp test2 test1 test
