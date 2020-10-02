@@ -1,0 +1,436 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "bear-down";
+    src: url("../fonts/bearDown.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Agency FB";
+    src: url("../fonts/AGENCYR.TTF") format("truetype");
+}
+
+@font-face {
+    font-family: "Adorn Serif";
+    src: url("../fonts/Adorn\ Serif.otf") format("truetype");
+}
+
+@font-face {
+    font-family: "Charcuterie Block";
+    src: url("../fonts/Charcuterie\ Block\ W05\ Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Charcuterie Block Bold";
+    src: url("../fonts/Charcuterie\ Block\ W05\ Bold.ttf") format("truetype");
+}
+
+
+/******************************************************************************/
+/******************************************************************************/
+/*************************   DESKTOP SETTINGS   *******************************/
+/******************************************************************************/
+/******************************************************************************/
+
+@media screen and (min-width: 800px) {
+
+    :root {
+        --skewPercentage: -10deg;
+    }
+
+    html {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        background-color: darkslategrey;
+        width: 800px;
+        margin: 0 auto;
+        
+    }
+
+    #wrapper {
+        position: relative;
+        overflow:hidden;
+        background-color: transparent;
+        box-shadow: 0px 15px 15px 15px rgb(47, 53, 59);
+    }
+
+    #wrapper > * {
+        padding: 15px;
+        color: white;
+    }
+
+
+    #bg {
+        position: absolute;
+        background-image: url(../img/bg.jpg);
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-position: center;
+        background-size: cover;
+        filter: blur(1.5px)
+                opacity(70%);
+    }
+
+    .skew {
+        transform: skewY(var(--skewPercentage));
+        transform-origin: top left;
+    }
+
+    #header {
+        background-color: slategray;
+        background-image: url(../img/wood-bg.jpg);
+        background-size: cover;
+        position: relative;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        width: 100%;
+        height: 232px;
+        border-bottom: 2px solid black;
+    }
+
+    #header * {
+        transform: skewY(calc(var(--skewPercentage) * -1));
+        transform-origin: top left;
+    }
+
+    #top-left-logo {
+        position: absolute;
+        max-height: 200px;
+        filter: drop-shadow(0px 0px 5px white);
+        z-index: 100;
+
+    }
+
+
+
+
+
+
+    #header .social {
+        display: block;
+        float: right;
+        position: relative;
+        top: 60px;
+        right: 400px;
+        width: 50px;
+        filter: opacity(75%)
+                sepia(20%)
+                ;
+        padding: 15px;
+        z-index: 100;
+    }
+
+    #header .social:hover {
+        filter: opacity(100%)
+                sepia(0%)
+                drop-shadow(0px 0px 5px white);
+    }
+
+
+
+    #header > h1 {
+        position: relative;
+        font-family: "Charcuterie Block Bold", "Adorn Serif", "bear-down";
+        opacity: 100%;
+        text-align: right;
+        padding-top: 150px;
+        padding-right: 30px;    
+        font-size: 2.8em;
+        transform: skewY(-1deg);
+        transform-origin: top left;
+        color: white;
+        filter: drop-shadow(0px 0px 5px black);
+    }
+
+    nav {
+        position: relative;
+        top: -133px;
+        margin: 0 auto;
+        text-align: center;
+        float: right;
+    }
+
+
+    nav ul li {
+        display: inline-block;
+        background-color: slategray;
+        background-image: url(../img/wood-bg.jpg);
+        background-size: contain;
+        padding: 5px;
+        border-right: solid black 2px;
+        border-bottom: solid black 2px;
+        font-size: 1.25em;
+        font-weight: bold;
+        font-family: "Agency FB", sans-serif;
+        
+    }
+
+    nav ul li a {
+        text-decoration: none;
+        color: white;
+        filter: drop-shadow(2px 2px 1px black);
+    }
+
+    nav ul li:hover {
+        transform: scale(110%);
+        position: relative;
+        top: 2px;
+    }
+
+
+    #content {
+        font-family: "Agency FB", sans-serif;
+        background-color: transparent;
+        position: relative;
+        top: -15px; /*Correcting strange positioning issue between header and content*/
+        bottom: 0;
+        right: 0;
+        left: 0;
+        width: 96%;
+        min-height: 65vh;
+    }
+
+    #abstract {
+        font-family: "Adorn Serif", 'Times New Roman', Times, serif;
+        margin: 0 auto;
+        position: absolute;
+        top: -20px;
+        filter: drop-shadow(0px 0px 1px black)
+                drop-shadow(0px 0px 15px rgba(144, 238, 144, 0.459));
+    }
+
+    #abstract > div {
+        margin: 0px 15px;
+        position: relative;
+        filter: drop-shadow(0px 0px 5px darkslategrey);
+        text-align: justify;
+        text-justify: inter-character;
+        text-transform: uppercase;
+    }
+
+
+
+    #small-text-abstract {
+        line-height: 1.2em;
+        padding-left: 250px;
+    }
+
+    #large-text-abstract {
+        position: relative;
+        top: -20px;
+        font-size: 1.8em;
+        font-family: "Charcuterie Block";
+        font-style: normal;
+    }
+
+    #abstract .invis {
+        opacity: 0;
+        
+    }
+
+    #content > p {
+        font-size: 1.3em;
+        
+    }
+    #content > p:last-of-type {
+        margin-bottom: 70px;
+    }
+
+    #content > ul {
+        display: flex 2;
+        padding-right: 50px;
+        columns: 250px 2;
+        width: 90%;
+        list-style-type: none;
+    }
+
+
+
+    #content .beer-listing {
+        width: 275px;
+        display: inline-block;
+        cursor: pointer;
+        position: relative;
+        background-color: rgba(10, 34, 10, 0.562);
+        filter: saturate(100%);
+        padding: 0px 20px;
+        margin-bottom: 50px;
+        border-radius: 15px;
+        text-align: right;
+        border-bottom: ridge 5px rgba(0, 0, 0, 0.336);
+    }
+
+    #content .beer-listing::after {
+        content: "";
+        height: 100%;
+        width: 100%;
+        background-image: url(../img/header.jpg);
+        filter: saturate(50%);
+        opacity: 0.5;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: -1;
+        border-radius: 15px;
+    }
+
+
+
+    #content .beer-listing:hover {
+        background-color: rgba(10, 34, 10, 0.85);
+    }
+
+    #content .beer-info, #content .beer-title {
+        filter: drop-shadow(0px 0px 2px brown)
+                drop-shadow(2px 2px 2px black);
+    }
+
+    #content .beer-title {
+        padding-top: 10px;
+    }
+
+    #content .beer-info {
+        position: relative;
+        right: -90px;
+        width: 70%;
+        margin-top: -10px;
+        padding-bottom: 10px;
+    }
+
+    #content .beer-style {
+        font-size: 1.2em;
+        padding-right: 5px;
+    }
+
+    #content .beer-description {
+        display: block;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        padding-top: 5px;
+    }
+
+
+    #content > ul li:nth-child(n+5) {
+        text-align: left;
+    } 
+    #content > ul li:nth-child(n+5) p {
+        right: unset;
+    }
+
+    #content > ul li img {
+        float: right;
+        position: absolute;
+        top: 10px;
+        left: 0;
+        width: 125px;
+        filter: drop-shadow(0px 0px 5px lightblue);
+    }
+
+    #content > ul li:nth-child(n+5) img {
+        left: unset;
+        right: 0;
+    }
+
+    #order-form {
+        background: rgba(0, 0, 0, 0.404);
+        padding: 15px;
+        margin: 0 auto;
+        margin-top: -50px;
+        margin-bottom: 50px;
+        width: 50%;
+        border-radius: 15px;
+    }
+
+    #order-form ul {
+        list-style-type: none;
+    }
+
+    #order-form:hover {
+        background: rgba(0, 0, 0, 0.548);
+    }
+
+    label.title {
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 1.5em;
+    }
+
+    input[type='text'], input[type='email'] {
+        font-size: 1.2em;
+        height: 25px;
+        width: 97%;
+        margin: 5px 0px;
+        background-color: rgba(108, 170, 116, 0.445);
+        border-style: none;
+        border-radius: 5px;
+        color: white;
+    }
+
+    #invalid-input {
+        background-color: rgba(228, 70, 70, 0.377);
+    }
+
+    label.required-info:after {
+        content: " *";
+    }
+
+    #order-form button {
+        border: groove 2px rgba(0, 128, 0, 0.5);
+        background-color: rgba(0, 100, 0, 0.5);
+        border-radius: 5px;
+        color: white;
+        margin: 0 auto;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, 0%);
+        height: 35px;
+        width: 30%;
+        font-size: 1.2em;
+        text-transform: uppercase;
+        font-family: "Charcuterie Block";
+    }
+
+    #footer {
+        border-top: 2px solid black;
+        background-color: slategray;
+        background-image: url(../img/wood-bg.jpg);
+        position: relative;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 10vh;
+        margin-top: -50px;
+    }
+
+    #footer a {
+        text-decoration: none;
+        color: white;
+        font-size: 2em;
+        font-family: "Charcuterie Block";
+        line-height: 1.2em;
+        padding: 0px 50px;
+    }
+
+    #footer a:first-of-type {
+        float: left;
+        text-align: left;
+    }
+    #footer a:last-of-type {
+        float: right;
+        text-align: right;
+    }
+
+}
+
+
+

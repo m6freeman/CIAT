@@ -1,0 +1,98 @@
+/******************************************************************************/
+/******************************************************************************/
+/*************************   MOBILE SETTINGS    *******************************/
+/******************************************************************************/
+/******************************************************************************/
+
+@media screen and (max-width: 400px) {
+    * {
+        margin: 0 auto;
+        padding: 0;
+    }
+
+
+
+    body {
+        background-color: darkslategrey;
+        width: 100%;
+        margin: 0 auto;
+        
+    }
+
+    #wrapper {
+        position: relative;
+        background-color: transparent;
+        box-shadow: 0px 15px 15px 15px rgb(47, 53, 59);
+    }
+
+    .social {
+        width: 50px;
+        float: right;
+        padding: 15px;
+        z-index: 100;
+    }
+
+
+    
+
+    #top-left-logo {
+        width: 90vw;
+        order: 2;
+        position: relative;
+        top: -20px;
+        left: -50px;
+        transform: rotate(-30deg);
+        background: transparent;
+    }
+
+    #header {
+        display: block;
+        background-image: url(../img/wood-bg.jpg);
+    }
+
+    #header h1 {
+        opacity: 0;
+    }
+
+    #fb {
+        position: relative;
+        top: -25px;
+    }
+
+    #ig {
+        position: relative;
+        top: -50px;
+    }
+
+    nav {
+        position: sticky;
+        top: 0;
+        width: 100%;
+        text-align: center;
+        background-color: darkslategray;
+        height: 10vh;
+        border-bottom: 2px black;
+    }
+
+    nav ul {
+        background: transparent;
+        padding-top: 20px;
+    }
+
+
+    nav ul li {
+        display:inline;
+        font-family: "Charcuterie Block";
+        margin: 0 auto;
+        background: transparent;
+        filter: drop-shadow(0px 0px 5px #abc67f);
+    }
+
+    nav ul li a {
+        color: white;
+        background: transparent;
+        text-decoration: none;
+        font-size: 1.5em;
+        padding: 20px;
+    }
+}

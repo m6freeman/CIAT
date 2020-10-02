@@ -1,0 +1,73 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML and CSS
+   Tutorial 6
+   Case Problem 1
+
+   Tables Style Sheet
+   Author: 
+   Date:   
+
+   Filename:         mi_tables.css
+
+*/
+
+/* Table Styles */
+table#pricing {
+   background: linear-gradient(to bottom, rgb(190, 215, 255), black);
+   border: solid gray;
+}
+
+th {
+   background-color: black;
+   color: rgb(130, 210, 255);
+   font-weight: normal;
+}
+
+td {
+   color: white;
+   font-size: 0.9em;
+   vertical-align: top;
+}
+
+th, td {
+   border: solid 3px gray;
+   line-height: 1.4em;
+   padding: 8px;
+}
+
+
+/* Column Styles */
+col#firstCol {
+   column-width: 24%;
+}
+
+col.dataCols {
+   column-width: 19%;
+}
+
+
+/* Table Header Styles */
+thead tr {
+   line-height: 60px;
+}
+
+thead tr:first-of-type th:first-of-type {
+   font-size: 2em;
+}
+
+thead tr:first-of-type th:not(:first-of-type) {
+   background-color: transparent;
+   color: black;
+}
+
+
+
+
+
+
+
+
+
+

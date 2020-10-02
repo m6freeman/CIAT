@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./css/mobile.css">
+    <script src="./js/validation.js" defer></script>
+    <title>Bear Down Brewery</title>
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+        <div id="bg"></div>
+        <div id="header" class="skew">
+            <a href="index.html">
+                <img id="top-left-logo" src="./img/logo.png" alt="Bear Down Brewery">
+            </a>
+            <a href="www.instagram.com">
+                <img src="./img/instagram.png" alt="Instagram" class="social" id="ig">
+            </a>
+            <a href="www.facebook.com">
+                <img src="./img/facebook.png" alt="Facebook" class="social" id="fb">
+            </a>
+            <h1>
+                Bear Down & Belly Up!
+            </h1>
+        </div>
+        <nav class="skew">
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="about.html">About</a>
+                </li>
+                <li>
+                    <a href="order.html">Order</a>
+                </li>
+            </ul>
+        </nav>
+        <div id="content">
+            <p>Ad ea nisi elit quis laboris id cupidatat veniam deserunt adipisicing minim. Nisi cupidatat laborum
+                tempor ut ut culpa ut in tempor minim nisi labore. Commodo ex laborum ullamco est proident esse Lorem ea
+                amet. Officia aliquip laborum pariatur excepteur fugiat ipsum veniam proident eiusmod est ullamco
+                ullamco reprehenderit. Qui fugiat duis minim occaecat deserunt consequat. Eu ullamco consectetur sit qui
+                dolore ut minim veniam. Excepteur ipsum qui commodo esse.</p>
+            <form name="myForm" id="order-form" action="" onsubmit="return validateForm()">
+                <label class="required-info title" for="">Company Name:</label><br>
+                <input id="" type="text" name="companyName" required><br><br>
+                <label class="required-info title" for="">Company Address:</label><br>
+                <input id="" type="text" name="companyAddress" required><br><br>
+                <label class="required-info title" for="">Company Email:</label><br>
+                <input id="" type="email" name="companyEmail" required><br><br>
+                <label class="title" for="">Pick your beer:</label>
+                <ul id="order-beer-list">
+                    <li>
+                        <input type="checkbox" name="" id="">
+                        <label for="">Golden Bear</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" name="" id="">
+                        <label for="">Irish Breakfast</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" name="" id="">
+                        <label for="">WPA</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" name="" id="">
+                        <label for="">Ray of Sunshine</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" name="" id="">
+                        <label for="">Sauer B&auml;r</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" name="" id="">
+                        <label for="">No Name</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" name="" id="">
+                        <label for="">3's a Celebration</label>
+                    </li>
+                    <li>
+                        <input type="checkbox" name="" id="">
+                        <label for="">Potato Juice</label>
+                    </li>
+                </ul>
+                <br>
+                <button type="submit">Send it!</button>
+            </form>
+        </div>
+        <div id="footer">
+            <a href="tel:+15555555555">(555) 555 - 5555</a>
+            <a href="http://www.maps.google.com">123 Bumpy Rd, <br>
+                San Diego, CA</a>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

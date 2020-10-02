@@ -1,0 +1,2 @@
+C:\Users\Matthew\Documents\CIAT\ASD101 C\Week 3\stringz\Debug\stringz.exe
+C:\Users\Matthew\Documents\CIAT\ASD101 C\Week 3\stringz\Debug\stringz.pdb

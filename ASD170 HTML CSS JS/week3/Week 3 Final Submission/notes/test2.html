@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Modal</title>
+    <link href="./css/popup.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/styles.css">
+    <script defer src="./js/popup.js"></script>
+</head>
+
+<body>
+<div id="wrapper">
+    <div id="bg"></div>
+    <div id="header" class="skew">
+        <a href="index.html">
+            <img id="top-left-logo" src="./img/logo.png" alt="Bear Down Brewery">
+        </a>
+        <a href="www.instagram.com">
+            <img src="./img/instagram.png" alt="Instagram" class="social" id="ig">
+        </a>
+        <a href="www.facebook.com">
+            <img src="./img/facebook.png" alt="Facebook" class="social" id="fb">
+        </a>
+        <h1>
+            Bear Down & Belly Up!
+        </h1>
+    </div>
+    <nav class="skew">
+        <ul>
+            <li>
+                <a href="index.html">Home</a>
+            </li>
+            <li>
+                <a href="about.html">About</a>
+            </li>
+            <li>
+                <a href="order.html">Order</a>
+            </li>
+        </ul>
+    </nav>
+    <div id="content">
+        <p id="abstract">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
+            industry's standard
+            dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make
+            a type specimen
+            book.
+        </p>
+
+        <ul>
+            <li class="beer-listing" data-modal-target="#modal">
+                <h1 class="beer-title">Golden Bear</h1>
+                <img src="./img/westCoastIPA.png" alt="West Coast IPA">
+                <p class="beer-info">
+                    <i class="beer-style">West Coast IPA</i> <br>
+                    <span class="beer-description">Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry.</span>
+                </p>
+            </li>
+            <li class="beer-listing" data-modal-target="#modal">
+                <h1 class="beer-title">Irish Breakfast</h1>
+                <img src="./img/oatmealStout.png" alt="Oatmeal Stout">
+                <p class="beer-info">
+                    <i class="beer-style">Oatmeal Stout</i> <br>
+                    <span class="beer-description">Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry.</span>
+                </p>
+            </li>
+            <li class="beer-listing" data-modal-target="#modal">
+                <h1 class="beer-title">WPA</h1>
+                <img src="./img/paleAle.png" alt="Wisconsin Pale Ale">
+                <p class="beer-info">
+                    <i class="beer-style">Wisconsin Pale Ale</i> <br>
+                    <span class="beer-description">Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry.</span>
+                </p>
+            </li>
+            <li class="beer-listing" data-modal-target="#modal">
+                <h1 class="beer-title">Ray of Sunshine</h1>
+                <img src="./img/pilsner.png" alt="Pilsner">
+                <p class="beer-info">
+                    <i class="beer-style">Pilsner</i> <br>
+                    <span class="beer-description">Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry.</span>
+                </p>
+            </li>
+            <li class="beer-listing" data-modal-target="#modal">
+                <h1 class="beer-title">Sauer B&auml;r</h1>
+                <img src="./img/berlinerWeisse.png" alt="Berliner Weisse">
+                <p class="beer-info">
+                    <i class="beer-style">Berliner Wei&szlig;e</i> <br>
+                    <span class="beer-description">Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry.</span>
+                </p>
+            </li>
+            <li class="beer-listing" data-modal-target="#modal">
+                <h1 class="beer-title">No Name</h1>
+                <img src="./img/viennaLager.png" alt="Vienna Lager">
+                <p class="beer-info">
+                    <i class="beer-style">Vienna Lager</i> <br>
+                    <span class="beer-description">Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry.</span>
+                </p>
+            </li>
+            <li class="beer-listing" data-modal-target="#modal">
+                <h1 class="beer-title">3's a Celebration</h1>
+                <img src="./img/belgianTripel.png" alt="Belgian Tripel">
+                <p class="beer-info">
+                    <i class="beer-style">Belgian Tripel</i> <br>
+                    <span class="beer-description">Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry.</span>
+                </p>
+            </li>
+            <li class="beer-listing" data-modal-target="#modal">
+                <h1 class="beer-title">Potato Juice</h1>
+                <img src="./img/redAle.png" alt="Red Ale">
+                <p class="beer-info">
+                    <i class="beer-style">Red Ale</i> <br>
+                    <span class="beer-description">Lorem Ipsum is simply dummy text of the printing and typesetting
+                        industry.</span>
+                </p>
+            </li>
+        </ul>
+    </div>
+    <div id="footer">
+        <a href="tel:+15555555555">(555) 555 - 5555</a>
+        <a href="http://www.maps.google.com">123 Bumpy Rd, <br>
+            San Diego, CA</a>
+    </div>
+</div>
+
+
+
+    <div class="modal" id="modal">
+        <div class="modal-header">
+            <div class="title">Example Modal</div>
+            <button data-close-button class="close-button">&times;</button>
+        </div>
+        <div class="modal-body">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse quod alias ut illo doloremque eum ipsum
+            obcaecati distinctio debitis reiciendis quae quia soluta totam doloribus quos nesciunt necessitatibus,
+            consectetur quisquam accusamus ex, dolorum, dicta vel? Nostrum voluptatem totam, molestiae rem at ad autem
+            dolor ex aperiam. Amet assumenda eos architecto, dolor placeat deserunt voluptatibus tenetur sint officiis
+            perferendis atque! Voluptatem maxime eius eum dolorem dolor exercitationem quis iusto totam! Repudiandae
+            nobis nesciunt sequi iure! Eligendi, eius libero. Ex, repellat sapiente!
+        </div>
+    </div>
+    <div id="overlay"></div>
+</body>
+
+</html>

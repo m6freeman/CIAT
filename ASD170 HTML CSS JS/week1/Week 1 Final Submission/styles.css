@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "bear-down";
+    src: url("bearDown.ttf") format("truetype");
+}
+
+/* Overall Styles */
+div.bg {
+    display: block;
+    filter: blur(2px)
+            sepia(50%)
+            saturate(75%);
+    box-shadow: 30px 0px 45px rgb(31, 31, 31) inset,
+                -30px 0px 45px rgb(31, 31, 31) inset,
+                0px 30px 45px rgb(31, 31, 31) inset,
+                0px -30px 45px rgb(31, 31, 31) inset;
+}
+
+/* Header Styles */
+header {
+    filter: saturate(50%);
+    border-bottom: 2px solid rgb(31, 31, 31);
+    box-shadow: 0px -30px 45px rgb(31, 31, 31) ;
+}
+
+#top-nav > ul {
+    list-style-type: none;
+    
+}
+
+#top-left-logo {
+    filter: /*drop-shadow(5px 5px 5px)*/
+            opacity(50%)
+            ;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    font-family: "bear-down", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: green;
+}
+
+nav ul li a:hover {
+    color: brown;
+}
+nav ul li a:visited {
+    color: gray;
+}
+
+#site-name main {
+    font-family: bear-down;
+    font-size: 2.5em;
+}
+
+/* Nav Styles */
+
+
+
+
+/* Body Styles */
+p {
+    
+}
+
+/* Footer Styles */

@@ -1,0 +1,2 @@
+C:\Users\Matthew\Documents\CIAT\ASD101 C\Week 5\verifyPIN\Debug\verifyPIN.exe
+C:\Users\Matthew\Documents\CIAT\ASD101 C\Week 5\verifyPIN\Debug\verifyPIN.pdb
